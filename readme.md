@@ -48,6 +48,6 @@ php artisan checkMails
 
 7. To run application on debug server run ``` php artisan serve ```
    
-Now you can acces application on 127.0.0.1:8000
+Now you can acces application on https://127.0.0.1:8000
 
 
